@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Hi Fayaz
 How are you?
+=======
+Hi mainsh
+iam fayaz
+>>>>>>> br2
